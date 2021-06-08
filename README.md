@@ -9,7 +9,7 @@ Here's skill set:
 - Go
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://cyuu.tistory.com/)](https://cyuu.tistory.com/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chanyeol-yoon-5b4363b5//)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chanyeol-yoon-5b4363b5//)](https://www.linkedin.com/in/chanyeol-yoon-5b4363b5/) 
 
 
 [![ycy1766 GitHub stats](https://github-readme-stats.vercel.app/api?username=ycy1766)](https://github.com/anuraghazra/github-readme-stats)
