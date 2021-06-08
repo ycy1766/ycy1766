@@ -2,9 +2,9 @@ working at Cafe24 as a Openstack/Kubernetes Engineer
 
 Here's skill set:
 - Kubernetes
-- Ceph 
-- Openstack 
-- SDN
+- Ceph(Rook / Ceph-ansible)
+- Openstack  (Using Kolla, Openstack Helm)
+- SDN 
 - Elastic Stack 
 - Go
 
