@@ -1,6 +1,6 @@
-working at Cafe24 as a Openstack/Kubernetes Engineer
+ 👋 working at Cafe24 as a Openstack/Kubernetes Engineer
 
-Here's skill set:
+📫 Here's skill set:
 - Kubernetes
 - Ceph(Rook / Ceph-ansible)
 - Openstack  (Using Kolla, Openstack Helm)
