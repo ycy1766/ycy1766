@@ -1,4 +1,4 @@
- 👋 working at Cafe24 as a Openstack/Kubernetes Engineer
+ 👋 working at Smilegate as a Kubernetes Engineer
 
 📫 Here's skill set:
 - Kubernetes
