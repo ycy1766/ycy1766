@@ -1,5 +1,3 @@
- 👋 working at Smilegate as a Kubernetes Engineer
-
 📫 Here's skill set:
 - Kubernetes
 - Ceph(Rook/CephADM / Ceph-ansible)
