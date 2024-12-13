@@ -1,6 +1,6 @@
 📫 Here's skill set:
 - Kubernetes
-- Ceph(Rook/CephADM / Ceph-ansible)
+- Ceph
 - Openstack  (Using Kolla, Openstack Helm)
 - SDN 
 - Elastic Stack
