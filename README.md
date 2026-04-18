@@ -12,6 +12,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chanyeol-yoon-5b4363b5//)](https://www.linkedin.com/in/chanyeol-yoon-5b4363b5/) 
 
 
-[![ycy1766 GitHub stats](https://github-readme-stats.vercel.app/api?username=ycy1766)](https://github.com/anuraghazra/github-readme-stats)
-
 
